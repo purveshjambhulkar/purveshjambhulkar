@@ -1,3 +1,6 @@
+![logo](http
+
+
 <h1 align="center">Hi 👋, I'm Purvesh Jambhulkar</h1>
 
 <h3 align="center">NOVITIATE PYTHON PROGRAMMER</h3>
@@ -11,6 +14,7 @@
 - ⚡ Fun fact - **Skills speak louder than words.**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/purveshjambhulkar/purveshjambhulkar/blob/main/images%20(3).png">
 
 <p align="left">
 
