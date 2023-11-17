@@ -1,8 +1,8 @@
-<div class="center">
+<h3 align="center">
     <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
       <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+There+!!+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;I'm+Purvesh+Jambhulkar" alt="Typing SVG" />
     </a>
-</div>
+</h3>
 
 
 
