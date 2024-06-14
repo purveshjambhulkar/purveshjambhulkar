@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purvesh Jambhulkar</h1>
-<h3 align="center">Coding two tales: DSA in C++ and app alchemy in Java</h3>
+<h3 align="center">Coding two tales: DSA in C++ and Web Alchemy in Javascript</h3>
 
 - 🌱 I’m currently learning **Bachelors in Information Technology.**
 
