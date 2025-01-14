@@ -53,7 +53,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/purvesh-jambhulkar" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="purvesh-jambhulkar" height="50" width="50" /></a>
 <a href="https://leetcode.com/u/purveshjambhulkar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode - Purvesh Jambhulkar" height="50" width="50" /></a>
-<a href="https://instagram.com/purvesh_jambhulkar" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="purvesh_jambhulkar" height="50" width="50" /></a>
+<a href="https://instagram.com/purveshjambhulkar" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="purvesh_jambhulkar" height="50" width="50" /></a>
 </p>
 
 ---
