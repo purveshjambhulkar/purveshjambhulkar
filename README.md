@@ -1,17 +1,16 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Purvesh Jambhulkar</h1>
-<h3 align="center">Aspiring Software Engineer | Exploring Full Stack Development & Machine Learning</h3>
+<h3 align="center">Aspiring Software Engineer | Exploring Full Stack Development</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=purveshjambhulkar&label=Profile%20views&color=0e75b6&style=flat" alt="purveshjambhulkar" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
-- 🌱 I’m currently learning **Machine Learning with Python**
+
 
 - 🧑‍🎓 I’m an Undergraduate at **DYPCOE, Akurdi**
 
-- 💬 Ask me about **Full Stack Development & Machine Learning**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **purveshjambhulkar16@gmail.com**
   
